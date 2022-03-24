@@ -6,7 +6,7 @@
 
 </body> -->
 
-<style type="text/css"> <!– style dentro de head -- > 
+<style type="text/css"> <!â€“ style dentro de head -- > 
 <img src="LOGO DAVID.jpg">
 *{
 	margin:0px;
@@ -61,13 +61,13 @@ ul,ol	{
        		 <li><a href=""><img src="logofin.PNG"></a>
     	                 <li><a href="">Nosotros</a>
               			     <ul>
-                      			   <li><a href="MISION.HTML">Misión</a></li>
+                      			   <li><a href="MISION.HTML">MisiÃ³n</a></li>
 
 
 
 
 
-                   		                   <li><a href="vision.html">Visión</a>
+                   		                   <li><a href="vision.html">VisiÃ³n</a>
 
 
 
@@ -195,11 +195,11 @@ encontrar en el siguiente video .
 Tambien podra encontrar como solucionar o realizar un formateo en caso de no funcionar <br>
 el cual lo podra encontrar en el siguiente link. <br>
 </h2> 
-<a <li><a href="NUESTROTRABAJO.HTML">Sobre nuestro trabajo</a>target=“_blank”> FORMATEO DE COMPUTADORAS
+<a <li><a href="NUESTROTRABAJO.HTML">Sobre nuestro trabajo</a>target=â€œ_blankâ€> FORMATEO DE COMPUTADORAS
   </a>
 
 
-   <h1 align=“left”>
+   <h1 align=â€œleftâ€>
 
 
 
